@@ -1,10 +1,11 @@
-Ten other lines
-Ten other lines
-Ten other lines
-Ten other lines
-Ten other lines
-Ten other lines
-Ten other lines
-Ten other lines
-Ten other lines
-Ten other lines
+Added seconFile.txt to git_1
+Added seconFile.txt to git_1
+Added seconFile.txt to git_1
+Added seconFile.txt to git_1
+Added seconFile.txt to git_1
+Added seconFile.txt to git_1
+Added seconFile.txt to git_1
+Changed 2 lines in secondFile.txt in git_1
+Added seconFile.txt to git_1
+Changed 2 lines in secondFile.txt in git_1
+
